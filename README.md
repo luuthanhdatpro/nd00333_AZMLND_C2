@@ -1,16 +1,45 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
-
-# Your Project Title Here
-
-*TODO:* Write an overview to your project.
+# Operationalizing Machine Learning
+In this project, I will work with the Bank Marketing datase. Using Azure to configure a cloud-based machine learning production model, deploy it, and consume it.I'll also create, publish, and consume a pipeline. In the end, you will demonstrate all of your work by creating a README file and a screencast video.
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
-
+![alt text](<images/architecture diagram.png>)
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+### Automate ML Experience
+Banking Dataset
+![alt text](<images/banking dataset.png>)
 
+Best Model
+![alt text](<images/Best model.png>)
+
+Deploy Model
+![alt text](<images/deployed model.png>)
+
+Application Insight enabled
+![alt text](<images/logs enabled.png>)
+
+Logs output
+![alt text](<images/log running.png>)
+
+Swagger UI
+![alt text](images/mymodelswagger.png)
+
+![alt text](images/mymodelswagger2.png)
+
+Using endpoint.py script
+![alt text](<images/consume endpoint.png>)
+
+Pipeline job
+![alt text](<images/pipeline created.png>)
+
+Running Widget
+The API of AzureML is deprecated so N/A
+![alt text](images/runwidget.png)
+
+Succeed pipeline
+![alt text](<images/succeed pipeline.png>)
+
+Pipeline endpoint
+![alt text](<images/published pipeline.png>)
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
