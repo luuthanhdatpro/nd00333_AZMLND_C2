@@ -41,7 +41,7 @@ Succeed pipeline
 Pipeline endpoint
 ![alt text](<images/published pipeline.png>)
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+[Screencast](https://drive.google.com/file/d/1hc7865UD6h2Xap3dvzXeoR1EPdlECHxw/view?usp=sharing)
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
